@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pujan789
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning ...Full stack developer
 - 💞️ I’m looking to collaborate on ...Upwork
 - 📫 How to reach me ...gamingfury317@gmail.com
 
