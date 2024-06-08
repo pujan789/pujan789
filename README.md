@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Pujan Vasania!
 
-![Profile views](https://gpvc.arturio.dev/pujan789)
 ![GitHub followers](https://img.shields.io/github/followers/pujan789?style=social)
 
 ## About Me
